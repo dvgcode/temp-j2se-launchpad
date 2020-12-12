@@ -1,2 +1,2 @@
-# temp-j2se-launchpad
-This is a sample repo for configuring launchpads related to J2SE program.
+# J2SE Maven Build
+In this branch we are exploring maven based scenarios. 
